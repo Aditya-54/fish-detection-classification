@@ -1,0 +1,93 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+!Yolov8n_detection/best.pt
+
+# TensorFlow
+*.h5
+*.hdf5
+*.pb
+*.pkl
+*.joblib
+
+# Model outputs
+runs/
+outputs/
+results/
+detection_result_*.jpg
+classification_result_*.json
+cropped_fish_*/
+temp_*.jpg
+temp_*.png
+
+# Logs
+*.log
+logs/
+tensorboard_logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data
+data/
+datasets/
+*.csv
+*.json
+!fish_species.txt
+
+# Android
+*.apk
+*.aab
+.gradle/
+local.properties
+*.iml
+
+# Temporary files
+*.tmp
+*.temp

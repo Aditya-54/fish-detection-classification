@@ -1,0 +1,26 @@
+# Core Dependencies
+ultralytics>=8.0.0
+tensorflow>=2.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+Pillow>=8.0.0
+
+# Additional Dependencies
+scikit-learn>=1.0.0
+pandas>=1.3.0
+seaborn>=0.11.0
+tqdm>=4.62.0
+
+# Jupyter Notebook Dependencies
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development Dependencies
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Optional: For advanced features
+albumentations>=1.0.0
+wandb>=0.12.0
