@@ -447,6 +447,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Pranshul Gupta](https://github.com/pranshulgupta33940)** 
 - **[Pradhuman singh rajvi](https://github.com/techhuman22)**
 - **[Nishant Chaudhary](https://github.com/hero0p)**
+- **[Sameer Kaushik](https://github.com/Sameer060405)**
 
 ## 🙏 Acknowledgments
 
