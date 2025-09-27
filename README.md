@@ -2,7 +2,7 @@
 
 A comprehensive computer vision system for detecting and classifying fish species using a two-stage pipeline approach. This project combines YOLOv8 for fish detection with MobileNetV2 for species classification, optimized for mobile deployment.
 
-![Model Architecture](https://image2url.com/images/1758980451077-2d87bfae-ff8d-466c-a7da-92a53d9dde80.jpg)
+![Model Architecture](https://image2url.com/images/1758981625298-2d6ce34f-00b1-4739-b7fc-e4d743661107.jpg)
 
 ## 📋 Table of Contents
 
