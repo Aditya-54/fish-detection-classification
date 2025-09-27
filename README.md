@@ -443,9 +443,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **[Aditya Sharma](https://github.com/yourusername)** 
+- **[Aditya Sharma](https://github.com/Aditya-54)** 
 - **[Pranshul Gupta](https://github.com/pranshulgupta33940)** 
-- **[Friend 2 Name](https://github.com/friend2)**
+- **[Pradhuman singh rajvi](https://github.com/techhuman22)**
 - **[Nishant Chaudhary](https://github.com/hero0p)**
 
 ## 🙏 Acknowledgments
