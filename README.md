@@ -443,9 +443,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **[Your Name](https://github.com/yourusername)** - Project Lead, Model Development
-- **[Friend 1 Name](https://github.com/friend1)** - [Contribution description]
-- **[Friend 2 Name](https://github.com/friend2)** - [Contribution description]
+- **[Aditya Sharma](https://github.com/yourusername)** 
+- **[Pranshul Gupta](https://github.com/pranshulgupta33940)** 
+- **[Friend 2 Name](https://github.com/friend2)** 
 
 ## 🙏 Acknowledgments
 
